@@ -1,4 +1,4 @@
-#git push --set-upstream https://github.com/Pietrassyk/MarsColony master
+
 import numpy as np
 import names
 import pandas as pd
